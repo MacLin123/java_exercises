@@ -1,0 +1,10 @@
+.idea/
+.gradle
+out/
+target/
+build/
+web/
+*.iml
+
+.idea_modules/
+!gradle-wrapper.jar
