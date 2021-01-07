@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 public class Exercises {
     private Scanner scanner;
-    boolean useInputFromKeyboard;
+    private boolean useInputFromKeyboard;
 
     public Exercises(boolean useInputFromKeyboard) {
         this.useInputFromKeyboard = useInputFromKeyboard;
