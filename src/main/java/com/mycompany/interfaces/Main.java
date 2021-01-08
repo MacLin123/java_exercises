@@ -8,5 +8,10 @@ public class Main {
         ex.ex4();
         ex.ex5();
         ex.ex8();
+        ex.ex9();
+        ex.ex10();
+        ex.ex11();
+        ex.ex12();
+        ex.ex13();
     }
 }
