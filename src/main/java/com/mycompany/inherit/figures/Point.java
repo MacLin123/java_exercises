@@ -1,15 +1,10 @@
-package com.mycompany.oop;
+package com.mycompany.inherit.figures;
 
 import java.util.Objects;
 
-final public class Point {
-    private final double x;
-    private final double y;
-
-    public Point() {
-        this.x = 0.0;
-        this.y = 0.0;
-    }
+public class Point {
+    protected final double x;
+    protected final double y;
 
     public Point(double x, double y) {
         this.x = x;
